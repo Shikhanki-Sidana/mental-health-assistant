@@ -1,7 +1,7 @@
 # Mental Health Journal & Chatbot — Git-ready
 
 This is a no-framework Python + MySQL real-time mental-health journal and chatbot.
-![Python package](https://github.com/Shikhanki-Sidana/mental-health-assistant/actions/workflows/python-app.yml/badge.svg)
+
 
 
 
