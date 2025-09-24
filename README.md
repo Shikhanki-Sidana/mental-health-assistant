@@ -1,6 +1,6 @@
 # Mental Health Journal & Chatbot — Git-ready
 
-This is a no-framework Python + MySQL real-time mental-health journal and chatbot.
+A Python-based application that combines a journal and chatbot to help users track and manage mental health conditions like depression, anxiety, stress, and OCD in real-time. Utilizing a MySQL backend, this tool offers a secure and interactive platform for self-reflection and emotional support.
 
 
 
